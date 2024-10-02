@@ -57,13 +57,4 @@ public class DirectoryTreeLister {
         return sdf.format(lastModified);
     }
 
-    public static void main(String[] args) {
-        String path = "/path/to/your/directory"; // Change this to the path you want
-        DirectoryTreeLister lister = new DirectoryTreeLister(path);
-
-        System.out.println("Contents of the directory:");
-        lister.listDirectory();
-
-        lister.listDirectoryTree();
-    }
 }
