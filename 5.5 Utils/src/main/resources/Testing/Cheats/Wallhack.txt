@@ -1,0 +1,2 @@
+Hack to see through walls, so you can know everyone positions.
+You can also pre-fire before they show or just shot them through walls.
