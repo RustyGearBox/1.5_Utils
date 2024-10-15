@@ -1,0 +1,2 @@
+It's a script used in the videogames for doing perfect lineups.
+Is used the most in tactical shouters like CS:GO and Valorant.

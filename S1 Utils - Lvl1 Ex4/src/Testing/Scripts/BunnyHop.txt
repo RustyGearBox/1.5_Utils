@@ -1,0 +1,2 @@
+It's a script to make fast input of jumps, this combined with coordinated mouse movements,
+you can move faster than conventional running.
